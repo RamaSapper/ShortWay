@@ -11,6 +11,5 @@ public class ShortestWay
 	public void main(String[] args)
 	{
 		
-		
 	}
 }
